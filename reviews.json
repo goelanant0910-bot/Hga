@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Ritika Sharma",
+    "avatarUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2288%22%20height%3D%2288%22%3E%3Ccircle%20cx%3D%2244%22%20cy%3D%2244%22%20r%3D%2244%22%20fill%3D%22hsl%2812%2C%2050%25%2C%2040%25%29%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2252%25%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%20font-family%3D%22Georgia%2C%20serif%22%20font-size%3D%2232%22%20fill%3D%22%23fff%22%3ERS%3C/text%3E%3C/svg%3E",
+    "platformIconUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2040%2040%22%3E%3Ccircle%20cx%3D%2220%22%20cy%3D%2220%22%20r%3D%2220%22%20fill%3D%22%23fff%22/%3E%3Cpath%20d%3D%22M20%2016.4v4.6h6.5c-.3%201.7-2.1%205-6.5%205-3.9%200-7.1-3.2-7.1-7.2s3.2-7.2%207.1-7.2c2.2%200%203.7.9%204.6%201.7l3.1-3C25.6%208.2%2023%207%2020%207c-7.2%200-13%205.8-13%2013s5.8%2013%2013%2013c7.5%200%2012.5-5.3%2012.5-12.7%200-.9-.1-1.6-.2-2.3H20z%22%20fill%3D%22%234285F4%22/%3E%3C/svg%3E",
+    "rating": 5,
+    "text": "We came in for a birthday dinner and the whole room just felt special — the peacock mural wall is stunning in person. The tandoori platter was easily enough for our table of six, and the staff kept checking in without hovering. Already planning our next visit for a smaller weeknight dinner.",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "name": "Arjun Verma",
+    "avatarUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2288%22%20height%3D%2288%22%3E%3Ccircle%20cx%3D%2244%22%20cy%3D%2244%22%20r%3D%2244%22%20fill%3D%22hsl%28200%2C%2050%25%2C%2040%25%29%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2252%25%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%20font-family%3D%22Georgia%2C%20serif%22%20font-size%3D%2232%22%20fill%3D%22%23fff%22%3EAV%3C/text%3E%3C/svg%3E",
+    "platformIconUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2040%2040%22%3E%3Ccircle%20cx%3D%2220%22%20cy%3D%2220%22%20r%3D%2220%22%20fill%3D%22%23fff%22/%3E%3Cpath%20d%3D%22M20%2016.4v4.6h6.5c-.3%201.7-2.1%205-6.5%205-3.9%200-7.1-3.2-7.1-7.2s3.2-7.2%207.1-7.2c2.2%200%203.7.9%204.6%201.7l3.1-3C25.6%208.2%2023%207%2020%207c-7.2%200-13%205.8-13%2013s5.8%2013%2013%2013c7.5%200%2012.5-5.3%2012.5-12.7%200-.9-.1-1.6-.2-2.3H20z%22%20fill%3D%22%234285F4%22/%3E%3C/svg%3E",
+    "rating": 5,
+    "text": "Ordered the Hakka noodles and chili chicken for a quick lunch and both showed up fast and hot. Portions are generous for the price, and the packaging held up fine for the ten minute drive home. This is now our default order when we don't feel like cooking.",
+    "verified": true
+  },
+  {
+    "id": 3,
+    "name": "Meera Iyer",
+    "avatarUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2288%22%20height%3D%2288%22%3E%3Ccircle%20cx%3D%2244%22%20cy%3D%2244%22%20r%3D%2244%22%20fill%3D%22hsl%28320%2C%2050%25%2C%2040%25%29%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2252%25%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%20font-family%3D%22Georgia%2C%20serif%22%20font-size%3D%2232%22%20fill%3D%22%23fff%22%3EMI%3C/text%3E%3C/svg%3E",
+    "platformIconUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2040%2040%22%3E%3Ccircle%20cx%3D%2220%22%20cy%3D%2220%22%20r%3D%2220%22%20fill%3D%22%23fff%22/%3E%3Cpath%20d%3D%22M20%2016.4v4.6h6.5c-.3%201.7-2.1%205-6.5%205-3.9%200-7.1-3.2-7.1-7.2s3.2-7.2%207.1-7.2c2.2%200%203.7.9%204.6%201.7l3.1-3C25.6%208.2%2023%207%2020%207c-7.2%200-13%205.8-13%2013s5.8%2013%2013%2013c7.5%200%2012.5-5.3%2012.5-12.7%200-.9-.1-1.6-.2-2.3H20z%22%20fill%3D%22%234285F4%22/%3E%3C/svg%3E",
+    "rating": 4,
+    "text": "Lovely spot right on GT Road, easy to find and easy to park near. The paneer lababdar was rich and well spiced, though we waited a bit longer than expected on a Saturday evening. Would still recommend it for a family dinner, just go a little early.",
+    "verified": true
+  },
+  {
+    "id": 4,
+    "name": "Sanjay Ghosh",
+    "avatarUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2288%22%20height%3D%2288%22%3E%3Ccircle%20cx%3D%2244%22%20cy%3D%2244%22%20r%3D%2244%22%20fill%3D%22hsl%2845%2C%2050%25%2C%2040%25%29%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2252%25%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%20font-family%3D%22Georgia%2C%20serif%22%20font-size%3D%2232%22%20fill%3D%22%23fff%22%3ESG%3C/text%3E%3C/svg%3E",
+    "platformIconUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2040%2040%22%3E%3Ccircle%20cx%3D%2220%22%20cy%3D%2220%22%20r%3D%2220%22%20fill%3D%22%23fff%22/%3E%3Cpath%20d%3D%22M20%2016.4v4.6h6.5c-.3%201.7-2.1%205-6.5%205-3.9%200-7.1-3.2-7.1-7.2s3.2-7.2%207.1-7.2c2.2%200%203.7.9%204.6%201.7l3.1-3C25.6%208.2%2023%207%2020%207c-7.2%200-13%205.8-13%2013s5.8%2013%2013%2013c7.5%200%2012.5-5.3%2012.5-12.7%200-.9-.1-1.6-.2-2.3H20z%22%20fill%3D%22%234285F4%22/%3E%3C/svg%3E",
+    "rating": 5,
+    "text": "Brought my parents here after a long time of them asking to try it, and it did not disappoint. The dal makhani tasted like it had been simmering all day, and the teal chairs and marble floors make it feel far nicer than the price suggests. Great find near the hotel.",
+    "verified": true
+  }
+]
